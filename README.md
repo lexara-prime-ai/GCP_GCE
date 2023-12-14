@@ -1,2 +1,8 @@
-# GCP_GCE
-Working with VMs on the Google Cloud Platform
+## Google Cloud Platform
+* GCP gloud-cli setup
+```powershell
+gcloud auth login
+gcloud config set project
+gcloud cloud-shell ssh 
+```
+
